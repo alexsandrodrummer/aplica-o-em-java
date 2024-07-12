@@ -1,5 +1,4 @@
 # aplicação-em-java
-aplicação  utilizando as práticas de encapsulamento, abstração, herança, polimorfismo e Javabeans.
 O desenvolvimento de aplicação em Java ultiliza a Orientação a Objetos para reduzir
 códigos e aumentar a produtividade.Nesse projeto criei uma aplicação ultilizando as práticas de encapsulamento, herança, polimorfismo e Javabeans.
 
